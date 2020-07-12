@@ -49,7 +49,7 @@ Project two is an obstacle course that utilizes 2 x Sensor #1, 5 x Sensor #2, 1 
 Project three requires user input to control the Agent - custom built autonomous safety net method is designed to ensure safety of Agent regardless of what the user commands. The user must use a terminal emulator to connect to the Beaglebone, over the Beaglebone's LAN network. 
  
 ### Designed Path Using Sensor #1 to #4 and Associated Motors
- * There is no designed path for this project because the user has full control of the Agent. Safety net will override user command if Agent is in danger. The Agent will make use of all sensors and motors at the users request.
+ * There is no designed path for this project because the user has full control of the Agent. Safety net uses all sensors and will override a user command if Agent is in danger. 
 
 
 ## Demonstration of Operation
