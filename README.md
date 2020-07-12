@@ -2,13 +2,16 @@
 * Robot C is used for direct communication between a VEX Cortex and a Beaglebone (Bealgebone has been connected to the VEX Cortex through a UART cable)
 * C++ is used to communicate from terminal (Mac) to the Beaglebone through the Beaglebone's LAN network
 
-This repository consists of four different projects that have been designed to give a VEX agent (robot), using a VEX Cortex, autonomous control of its surroundings by utilizing different sensors and multiple motors. This allows the VEX agent to interact with its environment accordingly.
+  This repository consists of four different projects that have been designed to give a VEX agent (robot), using a VEX Cortex, autonomous control of its surroundings by utilizing different sensors and multiple motors. This allows the VEX agent to interact with its environment accordingly.
 
 ## Sensors and Motors Used
 **Sensor#1 and Motor Type 393** - VEX Motor 393 Integrated Encoder Modules - used to control the wheel motors and ensure exact power adjustment
+
 **Sensor #2** - VEX Line Trackers - used to find a line and travel along the line
   * Calibration for tracking can be found in the source code
+  
 **Sensor #3** - VEX Ultrasonic Range Finder - used to determine the distance between and object and the agent
+
 **Sensor #4** - VEX Potentiometer - used to control the arm and ensure exact arm positioning
 
 
