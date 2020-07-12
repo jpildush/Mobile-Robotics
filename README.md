@@ -61,5 +61,10 @@ Project three requires user input to control the Agent - custom built autonomous
  
 **Demonstration 2**
 
+ [![demo2](https://img.youtube.com/vi/6JE13C3Fnlk/0.jpg)](https://youtu.be/6JE13C3Fnlk)
+
 
 **Demonstration 3**
+
+ [![demo3](https://img.youtube.com/vi/LwqfrdrxiUM/0.jpg)](https://youtu.be/LwqfrdrxiUM)
+ 
