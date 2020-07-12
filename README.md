@@ -5,7 +5,8 @@
   This repository consists of four different projects that have been designed to give a VEX agent (robot), using a VEX Cortex, autonomous control of its surroundings by utilizing different sensors and multiple motors. This allows the VEX agent to interact with its environment accordingly.
 
 ## Sensors and Motors Used
-**Sensor#1 and Motor Type 393** - VEX Motor 393 Integrated Encoder Modules - used to control the wheel motors and ensure exact power adjustment
+**Motor Type 393 Used**
+**Sensor #1** - VEX Motor 393 Integrated Encoder Modules - used to control the wheel motors and ensure exact power adjustment
 
 **Sensor #2** - VEX Line Trackers - used to find a line and travel along the line
   * Calibration for tracking can be found in the source code
@@ -18,6 +19,12 @@
 ## Project 1 - [Project Directory](https://github.com/jpildush/Mobile-Robotics/tree/master/Project%201)
 Project one is an obstacle course that utilizes 2 x Sensor #1. The course consists of a few turns which lead to the finsh line. This requires calculating different power outputs for the agent's motors and knowing the track length. 
 ### Designed Path
+
+### Obstacle Design Used  
+ * Obstacle designed from a Seneca course
+ ![alt text][Obstacle]
+
+ [Obstacle]: https://github.com/jpildush/Mobile-Robotics/blob/master/Media/obstacle.jpg "Obstacle 1"
 
 ## Project 2 - [Project Directory](https://github.com/jpildush/Mobile-Robotics/tree/master/Project%202)
 Project two is an obstacle course that utilizes 2 x Sensor #1, 5 x Sensor #2, 1 x Sensor #3 and 1 x Sensor #4.  The goal of this course is for the agent to find a water bottle and bring it to its proper destination. 
