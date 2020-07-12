@@ -54,7 +54,12 @@ Project three requires user input to control the Agent - custom built autonomous
 
 ## Demonstration of Operation
 **Demonstration 1**
+ * In the video it can be noticed that the arm has surpassed the acceptable arch point. Make sure to thoroughly test that Sensor #4 is operating properly, otherwise the Agent may get damaged
+ 
+ [![demo1](https://img.youtube.com/vi/j3XvzgxCWWs/0.jpg)](https://youtu.be/j3XvzgxCWWs)
 
+ 
 **Demonstration 2**
+
 
 **Demonstration 3**
