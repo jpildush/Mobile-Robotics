@@ -7,6 +7,7 @@
 
 ## Sensors and Motors Used
 **Motor Type 393 Used**
+
 **Sensor #1** - VEX Motor 393 Integrated Encoder Modules - used to control the wheel motors and ensure exact power adjustment
 
 **Sensor #2** - VEX Line Trackers - used to find a line and travel along the line
