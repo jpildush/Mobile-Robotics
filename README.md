@@ -1,4 +1,4 @@
-# Mobile Robotics - With Robot C, C++, VEX Cortex and Beaglebone
+# Robotics with VEX Cortex - With Robot C IDE, C, C++, VEX Cortex and Beaglebone
 * Robot C is used for direct communication between a VEX Cortex and the Agent (robot) - All C files must be uploaded directly to the cortex using Robot C IDE
 * The Beaglebone uses a C++ application to communicate with the VEX Cortex (using a UART cable) - C++ application can be placed in a user defined directory to be called by the user
 * A terminal emulator will be required to SSH into the Beaglebone (SSH guide not provided)
